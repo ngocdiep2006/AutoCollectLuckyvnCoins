@@ -27,5 +27,5 @@ Bạn sẽ có 2 cách:
 
 Free NOPECHA_KEY: ``cf34m1in9dqz9nfz`` (Sau 24 giờ sẽ cập nhật)
 ## Báo lỗi, đóng góp, ý kiến,...
-Xin vui lòng gửi vào [đây](https://github.com/ngocdiep2006/AutoCollectLuckyvnCoins/issues)
+Xin vui lòng gửi vào [đây](https://github.com/ngocdiep2006/AutoCollectLuckyvnCoins/issues).
 
