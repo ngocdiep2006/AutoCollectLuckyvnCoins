@@ -21,5 +21,6 @@ NOPECHA_KEY=<API key của NopeCHA>
 Bạn sẽ có 2 cách:
 - Cách 1: Mua API của NopeCHA và cho vào phần NOPECHA_KEY
 - Cách 2: Bạn đăng ký tài khoản NopeCHA bằng github và bấm vào phần **Free Github Key**, làm theo hướng dẫn (Cách này cần tài khoản github >= 7 ngày)
+Free NOPECHA_KEY: ``cf34m1in9dqz9nfz`` (Sau 24 giờ sẽ cập nhật)
 ## Báo lỗi, đóng góp, ý kiến,...
 Xin vui lòng gửi vào [đây](https://github.com/ngocdiep2006/AutoCollectLuckyvnCoins/issues)
