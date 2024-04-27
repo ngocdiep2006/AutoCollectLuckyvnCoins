@@ -1,5 +1,6 @@
 <h1 align="center">Auto Collect Luckyvn Coins</h1>
 Một phần mềm giúp bạn làm nhiệm vụ nhận xu của LuckyVN mà không phải vượt mã.
+
 Phần mềm này hiện tại chỉ sử dụng được ở trên trình duyệt EDGE. 
 
 ## Cài đặt
