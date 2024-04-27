@@ -1,5 +1,6 @@
 <h1 align="center">Auto Collect Luckyvn Coins</h1>
 Một phần mềm giúp bạn làm nhiệm vụ nhận xu của LuckyVN mà không phải vượt mã.
+Phần mềm này hiện tại chỉ sử dụng được ở trên trình duyệt EDGE. 
 
 ## Cài đặt
 Bạn chỉ cần tải về, điền thông tin vào trong file .env, và chạy.
@@ -27,4 +28,3 @@ Free NOPECHA_KEY: ``cf34m1in9dqz9nfz`` (Sau 24 giờ sẽ cập nhật)
 ## Báo lỗi, đóng góp, ý kiến,...
 Xin vui lòng gửi vào [đây](https://github.com/ngocdiep2006/AutoCollectLuckyvnCoins/issues)
 
-#### LƯU Ý: HIỆN TẠI PHẦN MỀM NÀY CHỈ SỬ DỤNG ĐƯỢC TRÊN TRÌNH DUYỆT EDGE, CÁC TRÌNH DUYỆT KHÁC XIN VUI LÒNG ĐỢI BẢN CẬP NHẬT MỚI. XIN CẢM ƠN
