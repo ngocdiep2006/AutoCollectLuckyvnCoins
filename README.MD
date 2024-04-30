@@ -1,3 +1,6 @@
+## Tại sao tôi lại tạo ra cái này?
+Vì tôi quá mệt mỏi khi phải chờ đợi ~3p để lấy được tầm ~10 coins nên tôi đã tạo ra
+
 <h1 align="center">Auto Collect Luckyvn Coins</h1>
 Một phần mềm giúp bạn làm nhiệm vụ nhận xu của LuckyVN mà không phải vượt mã.
 
