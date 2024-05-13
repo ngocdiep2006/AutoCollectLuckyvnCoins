@@ -1,3 +1,5 @@
+## Dự án đang được chuyển sang JS thay vì PY. Xin vui lòng chờ các bản cập nhật tiếp theo.
+
 ## Tại sao tôi lại tạo ra cái này?
 Vì tôi quá mệt mỏi khi phải chờ đợi ~3p để lấy được tầm ~10 coins nên tôi đã tạo ra
 
