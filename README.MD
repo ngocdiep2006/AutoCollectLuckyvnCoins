@@ -24,7 +24,6 @@ TDN=<tên đăng nhập luckyvn của bạn>
 MK=<mật khẩu đăng nhập luckyvn của bạn>
 NOPECHA_KEY=<API key của NopeCHA>
 ```
-**Tôi, Ngọc Diệp, cam kết rằng không lấy thông tin tài khoản của các bạn.**
 ## Làm cách nào để lấy API key của [NopeCHA](https://nopecha.com)?
 Bạn sẽ có 2 cách:
 - Cách 1: Mua API của NopeCHA và cho vào phần NOPECHA_KEY
